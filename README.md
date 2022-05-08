@@ -8,7 +8,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 ## Backend Server
 
-open (Hello World\src\app\Server) path in terminal and run `json-Server --watch db.json` for run backend server.
+open (src\app\Server) path in terminal and run `json-Server --watch db.json` for run backend server.
 
 ## Code scaffolding
 
